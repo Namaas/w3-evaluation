@@ -1,0 +1,62 @@
+
+
+
+
+
+.haut_de_page{
+	background-color: red;
+	display:flex;
+	flex-direction:row;
+	width : 100%;
+ 
+    height : 80px;
+ 
+    background-color:red;
+ 
+    margin-top : 40px;
+
+}
+
+
+
+.ch1_haut_de_page{
+	background-color: red;
+	display:flex;
+	flex-direction:row;
+	width : 10%;
+    height : 80px; 
+    background-color:blue;
+ 
+    margin-top : 40px;
+    margin-left:150px;
+}
+
+
+
+
+.ch2_haut_de_page{
+	background-color: red;
+	display:flex;
+	flex-direction:row;
+	width : 10%;
+    height : 80px; 
+    background-color:blue;
+ 
+    margin-top : 40px;
+    margin-left:150px;
+}
+
+
+
+
+.ch3_haut_de_page{
+	background-color: red;
+	display:flex;
+	flex-direction:row;
+	width : 10%;
+    height : 80px; 
+    background-color:blue;
+ 
+    margin-top : 40px;
+    margin-left:150px;
+}
